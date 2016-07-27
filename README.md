@@ -1,2 +1,2 @@
 # hello-world
-my first repo using git
+my first branch using git
