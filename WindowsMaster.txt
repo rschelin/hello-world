@@ -4,3 +4,4 @@ with
 different
 line
 endings
+pushed local line on local.master
