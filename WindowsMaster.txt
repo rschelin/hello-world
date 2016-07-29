@@ -1,1 +1,15 @@
-remote.master.1
+hello master
+remote line
+with
+different
+line
+endings
+removed local line on local.branch
+local.branch.2
+local.master.1
+local.master.2
+local.branch1.1
+local.branch1.2
+local.branch1.3
+local.branch1.4
+local.branch1.5
