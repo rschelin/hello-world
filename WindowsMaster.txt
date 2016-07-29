@@ -1,0 +1,5 @@
+hello master
+with
+different
+line
+endings
