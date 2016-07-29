@@ -7,3 +7,4 @@ endings
 removed local line on local.branch
 local.branch.2
 local.master.1
+local.master.2
