@@ -5,3 +5,4 @@ different
 line
 endings
 removed local line on local.branch
+local.branch.2
