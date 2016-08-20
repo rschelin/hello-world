@@ -2,3 +2,6 @@
 	path = test1
 	url = https://github.com/rschelin/test1
 	branch = master
+[submodule "atanotherrev/test1"]
+	path = atanotherrev/test1
+	url = https://github.com/rschelin/test1
